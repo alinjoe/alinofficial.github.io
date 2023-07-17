@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alinofficial.github.io/static/css/main.df0f8496.css",
+    "main.js": "/alinofficial.github.io/static/js/main.b76beb32.js",
+    "static/js/787.510e8dec.chunk.js": "/alinofficial.github.io/static/js/787.510e8dec.chunk.js",
+    "static/media/Document_from_Alin_Joe____2_-removebg-preview.png": "/alinofficial.github.io/static/media/Document_from_Alin_Joe____2_-removebg-preview.88d3de09dbe8144a97a2.png",
+    "static/media/helvetica-neu.ttf": "/alinofficial.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/alinofficial.github.io/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/alinofficial.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/alinofficial.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/alinofficial.github.io/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/alinofficial.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/alinofficial.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/whatsapp-svgrepo-com (1).svg": "/alinofficial.github.io/static/media/whatsapp-svgrepo-com (1).f0642acef99ff8c41d832b6888ea0c36.svg",
+    "index.html": "/alinofficial.github.io/index.html",
+    "main.df0f8496.css.map": "/alinofficial.github.io/static/css/main.df0f8496.css.map",
+    "main.b76beb32.js.map": "/alinofficial.github.io/static/js/main.b76beb32.js.map",
+    "787.510e8dec.chunk.js.map": "/alinofficial.github.io/static/js/787.510e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0f8496.css",
+    "static/js/main.b76beb32.js"
+  ]
+}
